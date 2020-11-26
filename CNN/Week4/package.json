@@ -12,7 +12,7 @@
     "babel-plugin-transform-runtime": "^6.23.0",
     "babel-polyfill": "^6.5.0",
     "babel-preset-env": "^1.6.1",
-    "parcel-bundler": "^1.7.0"
+    "parcel-bundler": "^1.10.0"
   },
   "scripts": {
     "build": "rm -rf ./dist && parcel build src/index.html --public-url='/tfjs-yolo-tiny-demo/'",
